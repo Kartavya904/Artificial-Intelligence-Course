@@ -1,5 +1,4 @@
-# Created by Kartavya Singh, from team 
-
+# Created by Kartavya Singh, from Group 24, consisting of Kartavya Singh, Neil Haria, and Saarthak Sinha
 import heapq
 import time
 from collections import deque
